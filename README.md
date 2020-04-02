@@ -1,4 +1,6 @@
 # Emergency Services Simulation System
+Project for MECHENG 270 - Object Oriented Programming
+
 ## C++ Project
 C++ Simulation of Emergency Services Response System.
 
